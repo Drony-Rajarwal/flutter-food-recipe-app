@@ -1,6 +1,6 @@
 # food_recipe
 
-A new Flutter project.
+A simple mobile that fetches food recipes from API and use GetX for managing state.
 
 ## Getting Started
 
